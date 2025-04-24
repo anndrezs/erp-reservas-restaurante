@@ -58,11 +58,11 @@ EMAIL_PORT=587
 
 ```
 src/
-├── controllers/       # Regras de negócio
-├── models/            # Schemas do Mongoose
-├── routes/            # Rotas por domínio
-├── middlewares/       # Auth e controle de roles
-├── services/          # Ex: envio de e-mails
-└── index.ts           # Entrada principal da aplicação
+├── controllers/      
+├── models/            
+├── routes/            
+├── middlewares/       
+├── services/          
+└── index.ts           
 
 Feito com 💻 e café ☕
