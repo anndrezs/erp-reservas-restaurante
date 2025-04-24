@@ -42,7 +42,6 @@ npm install
 npm run dev
 
 ```
-
 ## Exemplo de .env
 
 ```env
@@ -55,9 +54,6 @@ EMAIL_PASS=sua_senha_ou_appkey
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
 ```
-
-
-
 ## Estrutura de pastas
 
 ```
